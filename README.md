@@ -1,6 +1,6 @@
 # ZScaler ZIA Logs to Microsoft Sentinel via NSS Cloud, DCE, and DCR
 
-The following artifacts can be used to deploy ZScaler ZIA Logs using NSS Cloud to Microsoft Sentinel this should help speed up deployment and testing. [Full Instructions found here:](https://help.zscaler.com/zia/zia-microsoft-azure-sentinel-integration-guide#zia-cloud-nss-step-create-table-dcr)
+The following artifacts can be used to deploy ZScaler ZIA Logs using NSS Cloud to Microsoft Sentinel this should help speed up deployment and testing. [Full Instructions found here:](https://help.zscaler.com/zscaler-technology-partners/zscaler-and-azure-sentinel-deployment-guide)
 
 ***Note:** After Creating DCE in Step 3 and creating a single DCR in Step 4, you can proceed looping three times to generate each Custom Table, Transformation for web, fw, dns before proceeding to Step 5.*
 
